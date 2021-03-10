@@ -7,6 +7,9 @@ This is the repository for SWEN20003 2021S1 workshop slides prepared by demonstr
 - Wednesday 11:00 - 13:00
 - Friday 16:15 - 18:15
 
+## Workshop recordings
+[https://unimelbcloud-my.sharepoint.com/:f:/g/personal/xuliny_student_unimelb_edu_au/Et08oJ_GCANJvGmIh9ScAWoB2b15jQjtqNFmOFshbWljGg?e=Ahr3sO](https://unimelbcloud-my.sharepoint.com/:f:/g/personal/xuliny_student_unimelb_edu_au/Et08oJ_GCANJvGmIh9ScAWoB2b15jQjtqNFmOFshbWljGg?e=Ahr3sO)
+
 ## Workshop codes
 [code root folder](https://repl.it/repls/folder/SWEN20003%202021S1)
 ### Week 02
