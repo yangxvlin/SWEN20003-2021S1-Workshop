@@ -12,6 +12,19 @@ This is the repository for SWEN20003 2021S1 workshop slides prepared by demonstr
 
 ## Workshop codes
 [code root folder](https://repl.it/repls/folder/SWEN20003%202021S1)
+### Week 04
+- Wednesday
+  - [team 01](https://replit.com/join/gdwqjpnv-yangxvlin)
+  - [team 02](https://replit.com/join/zffzyhuo-yangxvlin)
+  - [team 03](https://replit.com/join/vajtiulp-yangxvlin)
+  - [team 04](https://replit.com/join/ngtpqaiq-yangxvlin)
+  - [team 05](https://replit.com/join/gtfmcyxq-yangxvlin)
+- Friday
+  - [team 01](https://replit.com/join/lewlukys-yangxvlin)
+  - [team 02](https://replit.com/join/bbxztemn-yangxvlin)
+  - [team 03](https://replit.com/join/bpbgupoj-yangxvlin)
+  - [team 04](https://replit.com/join/nipijayn-yangxvlin)
+  - [team 05](https://replit.com/join/vqslvtxg-yangxvlin)
 ### Week 03
 - Wednesday
   - [team 01](https://replit.com/join/pgjajxii-yangxvlin)
