@@ -12,6 +12,9 @@ This is the repository for SWEN20003 2021S1 workshop slides prepared by demonstr
 
 ## Workshop codes
 [code root folder](https://repl.it/repls/folder/SWEN20003%202021S1)
+### Week 05
+- Wednesday & Friday
+  - You can see my step by step solution for each sub question for Q3-Q5 in [link](https://gitlab.eng.unimelb.edu.au/xuliny/swen20003-2021s1-wed-week05/commits/master)
 ### Week 04
 - Wednesday
   - [team 01](https://replit.com/join/gdwqjpnv-yangxvlin)
