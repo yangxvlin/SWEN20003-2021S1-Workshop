@@ -1,0 +1,8 @@
+- [past MST] Explain the meaning of the keyword super. [1 mark]
+  - Super is a reference to an object's super class, allowing access to its instance variables and methods.
+- [past MST] Define inheritance and its importance in Java. [1 mark]
+  - Inheritance allows objects to pass on common information/behaviour from one class (parent) to many others (children), and is one of the core methods of abstraction in Java.
+- [past MST] Describe the purpose of the keyword this. [1 mark]
+  - It is a reference to the calling object, or the object that is "running" a method.
+- [past MST] What is an abstract class? [1 mark]
+  - An abstract class is one that is used to represent common information between subclasses, but itself doesn't have information to be instantiated.
