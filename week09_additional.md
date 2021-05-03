@@ -1,0 +1,5 @@
+- Cheat sheet
+  - <img src="imgs/8.jpg"/>
+  - <img src="imgs/9.jpg"/>
+- [2018S1 Q5] <img src="imgs/7.png"/>
+- [2016S1 Q3] <img src="imgs/10.jpg"/>
