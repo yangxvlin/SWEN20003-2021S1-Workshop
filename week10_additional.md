@@ -1,0 +1,8 @@
+- [2016 S2 Q5(1)] (6 marks) Give the meaning of the following features in relation to the object-oriented design paradigm.
+    - Abstraction
+    - Inheritance
+    - Delegation
+- [2016 S2 Q5(2)]  (10 marks) "A good design is one that can be extended, adapted and re-used." Discuss how the object-oriented features abstraction, inheritance and delegation support good design as per above statement.
+- [2018S1 Q1] Answer the following questions with brief, worded responses Your answers should contain no more than four dot point, not essays.
+    - b) List and explain two of the four principles of Object Oriented Programming. (4 marks)
+    - c) Describe the general type of problem solved by the Factory design pattern; in your answer, describe the components of its design and how they work together. (4 marks)
