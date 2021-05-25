@@ -12,6 +12,22 @@ This is the repository for SWEN20003 2021S1 workshop slides prepared by demonstr
 
 ## Workshop codes
 [code root folder](https://repl.it/repls/folder/SWEN20003%202021S1)
+### Week 12
+- Wednesday
+  - [Q1](https://gitlab.eng.unimelb.edu.au/xuliny/swen20003-2021s1-wed-week12/tree/Wed)
+  - [team 01](https://replit.com/join/rmsdhwjc-yangxvlin)
+  - [team 02](https://replit.com/join/fdgqqrwy-yangxvlin)
+  - [team 03](https://replit.com/join/euovkqdk-yangxvlin)
+  - [team 04](https://replit.com/join/cjahpylv-yangxvlin)
+  - [team 05](https://replit.com/join/vevvkczl-yangxvlin)
+- Friday
+  - [Q1](https://gitlab.eng.unimelb.edu.au/xuliny/swen20003-2021s1-wed-week12/tree/Fri)
+  - [team 01](https://replit.com/join/bmnucans-yangxvlin)
+  - [team 02](https://replit.com/join/xzfsjypz-yangxvlin)
+  - [team 03](https://replit.com/join/ffydpnxu-yangxvlin)
+  - [team 04](https://replit.com/join/gowbifth-yangxvlin)
+  - [team 05](https://replit.com/join/skjynbpm-yangxvlin)
+- no additional exercises
 ### Week 11
 - Wednesday
   - [team 01](https://replit.com/join/wkbsbvet-yangxvlin)
